@@ -14,8 +14,8 @@ body {
 }
 .logo {
   width: 100px;
-  position: absolute;
-  top: 5px;
+    position: relative;
+    top: 5px;
   display: block;
   width: 70px; /* Adjust size */
   height: auto;
